@@ -1,0 +1,132 @@
+#nav ul {
+  width: 80%;
+  float: left;
+  margin: 0 0 3em 0;
+  padding: 0;
+  list-style: none;
+}
+#nav li {
+  float: left;
+}
+#h {
+  margin-left: 20%;
+}
+#nav ul li a {
+  display: block;
+  padding: 2px 15px;
+  text-decoration: none;
+  font-weight: bold;
+
+  color: #069;
+
+  border-right: 1px;
+}
+#nav {
+  padding: 10px 30px;
+
+  background: #c485b42f;
+}
+#i2 {
+  width: 50%;
+  right: 0;
+  float: right;
+}
+#i3 {
+  float: left;
+  width: 50%;
+}
+#s1 {
+  padding: 10;
+  margin-right: 9%;
+}
+#s2 {
+  padding: 10;
+  margin-right: 10%;
+}
+#s3 {
+  padding: 10;
+}
+#li,
+#l2,
+#l3 {
+  padding: 3%;
+}
+.modal {
+  width: 200px;
+  height: 200px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-right: -50px;
+  margin-left: -50px;
+  background: #dde3ff;
+  z-index: 14px;
+}
+#b2 {
+  background-color: #010413;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+#b1 {
+  background-color: white;
+  border: none;
+  text-decoration: underline;
+  font-size: 16px;
+  padding-right: 15px;
+  padding-top: 20px;
+  padding-bottom: 32px;
+  text-align: left;
+  display: inline-block;
+}
+#l1 select {
+  border: 1px solid gray;
+  color: gray;
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+  padding: 15px 32px;
+}
+#l2 select {
+  border: 1px solid gray;
+  color: gray;
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+  padding: 15px 32px;
+}
+#l3 select {
+  border: 1px solid gray;
+  color: gray;
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+  padding: 15px 32px;
+  margin-left: 0px;
+}
+#s1,
+#s2 {
+  padding: 15px 32px;
+  font-family: Arial;
+}
+
+#s3 {
+  padding-left: 40px;
+  margin-left: 40px;
+  font-family: Arial;
+}
+
+#b4 {
+  text-decoration: none;
+  padding: 9px;
+  background-color: black;
+  color: white;
+}
+
+#a1 {
+  text-decoration: None;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
+  color: #975ac9;
+}
